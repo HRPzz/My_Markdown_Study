@@ -4,9 +4,9 @@
 
 |번호|목차|
 |:---:|:---:|
-|1|Markdown_Grammar|
-|2|Markdown_LaTeX|
-|3|Markdown_Code_Blocks|
+|1|[Markdown Grammar](Markdown_Grammar.md)|
+|2|[Markdown LaTeX](Markdown_LaTeX.md)|
+|3|[List of languages supported by Markdown](Markdown_Code_Blocks.md)|
 
 ## Associated Websites
 
@@ -30,6 +30,7 @@
   - [Markdown TeX Grammar](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Formatting_using_TeX)
   - [Markdown LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
   - [Markdown LaTeX Picture](https://en.wikibooks.org/wiki/LaTeX/Picture)
+  - [[마크다운, Markdown] 토글(toggle), Expander control(접기/펼치기)](https://computer-science-student.tistory.com/388)
   - [마크다운 문법정리](https://huni0318.github.io/blog/blog-etc/2020-12-21-markdown-tutorial/)
   - [마크다운 문법정리2_수식](https://huni0318.github.io/blog/blog-etc/2020-12-21-markdown-tutorial2/)
   - [위키백과:TeX 문법](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95)
