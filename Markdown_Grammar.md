@@ -222,15 +222,7 @@ ___Text___
 
 ## 8. Code Blocks
 
-### 8-1. Use `Text`
-
-```markdown
-    Hello, `Python!`
-```
-
-Hello, `Python!`
-
-### 8-2. Use ```: Languages Syntax Highlighting
+### 8-1. Code Blocks: Use ``` (Languages Syntax Highlighting)
 
 * More Details: [List of languages supported by Markdown](Markdown_Code_Blocks.md)
 
@@ -243,6 +235,14 @@ Hello, `Python!`
 ```python
 print('Hello, Python!')
 ```
+
+### 8-2. Inline Code Blocks: Use `
+
+```markdown
+    Hello, `Python!`
+```
+
+Hello, `Python!`
 
 ## 9. Links
 
