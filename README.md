@@ -12,7 +12,7 @@
 
 ## Associated Websites
 
-- Markdown Programs
+- Markdown Editor
   - [Visual Studio Code](https://code.visualstudio.com/)
   - [Mark Text](https://marktext.app/)
   - [Typora](https://typora.io/)
