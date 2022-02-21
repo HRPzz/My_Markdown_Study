@@ -197,14 +197,18 @@ ___Text___
 ## 6. Blockquotes: Use `>`
 
 ```markdown
->Hello
+>Artificial Intelligence
 >
->Python!
+> >Machine Learning
+>
+> > >Deep Learning
 ```
 
->Hello
+>Artificial Intelligence
 >
->Python!
+> >Machine Learning
+> >
+> > >Deep Learning
 
 ## 7. Tables: Use `|`
 
@@ -229,7 +233,7 @@ ___Text___
 ```markdown
     ```python
     print('Hello, Python!')
-    ```
+```
 ```
 
 ```python
