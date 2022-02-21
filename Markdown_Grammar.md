@@ -233,7 +233,7 @@ ___Text___
 ```markdown
     ```python
     print('Hello, Python!')
-```
+    ```
 ```
 
 ```python
