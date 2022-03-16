@@ -9,6 +9,7 @@
 |1|[Markdown Grammar](Markdown_Grammar.md)|
 |2|[Markdown LaTeX](Markdown_LaTeX.md)|
 |3|[List of languages supported by Markdown](Markdown_Code_Blocks.md)|
+|4|[Emoji Cheat Sheet by ikatyang](Emoji_Cheat_Sheet_by_ikatyang.md)|
 
 ## Associated Websites
 
