@@ -330,3 +330,21 @@ $$\int_\Omega \nabla u \cdot \nabla v~dx = \int_\Omega fv~dx$$
 
 </div>
 </details>
+
+## 12. Comment
+
+```markdown
+코멘트 시작
+
+[comment]: <마크다운 주석>
+[//]: <마크다운 주석 간소화>
+
+코멘트 끝
+```
+
+코멘트 시작
+
+[comment]: <마크다운 주석>
+[//]: <마크다운 주석 간소화>
+
+코멘트 끝
