@@ -39,6 +39,7 @@
   - [위키백과:TeX 문법](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95)
   - [[LaTex] Markdown 수식 작성법](https://velog.io/@d2h10s/LaTex-Markdown-%EC%88%98%EC%8B%9D-%EC%9E%91%EC%84%B1%EB%B2%95)
   - [[마크다운] LaTex 문법 정리](https://cheris8.github.io/etc/MD-LaTex/)
+  - [마크다운 주석](https://xeppetto.github.io/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4/Markdown/07-How-To-Use-Markdown-Comment-Emoji/)
 
 - And More
   - [Markdown to HTML Online Converter: StackEdit](https://stackedit.io/)
