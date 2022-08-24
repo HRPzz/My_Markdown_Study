@@ -322,6 +322,17 @@ $$\int_\Omega \nabla u \cdot \nabla v~dx = \int_\Omega fv~dx$$
 
 * [How to write Markdown Toggle](https://computer-science-student.tistory.com/388)
 
+```markdown
+<details>
+<summary>토글 접기/펼치기</summary>
+<div markdown="1">
+
+안녕
+
+</div>
+</details>
+```
+
 <details>
 <summary>토글 접기/펼치기</summary>
 <div markdown="1">
